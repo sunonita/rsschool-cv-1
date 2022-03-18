@@ -54,7 +54,7 @@ The course work (C++) on creating your own MKV-2021 compiler is protected.
 The Task Scheduler software is being developed (С#).
 
 
-## Languages
+## LANGUAGES
 1. Russian (Native)
 2. Belorussian (Native)
 3. English (level A2+)
