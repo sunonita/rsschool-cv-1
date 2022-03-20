@@ -1,0 +1,25 @@
+ body 
+{
+      background-color: rgba(158, 109, 63, 0.479);
+}
+h1
+{
+    text-align: center;
+      color: rgb(56, 36, 27);
+      text-shadow: 5px 4px 5px rgba(255, 255, 255, 0.685); 
+      font-size: 25px;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+  .a 
+{
+      align-content:center;    /* cтроки внутри контейнера располагаются c начального края контейнера */
+      align-items:baseline;          /* выравнивание всех элементов внутри флекс-контейнера */
+      text-align: center;
+      background-color: rgb(255, 255, 255);
+      border: 5px dotted rgb(141, 89, 68); 
+      border-radius: 5px;
+      color: rgb(88, 60, 47);
+      text-shadow: 5px 4px 5px rgba(95, 69, 44, 0.685); 
+      font-size: 55px;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
